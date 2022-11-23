@@ -1,6 +1,6 @@
 <h1 align="center"> blowout soon fellow stalker 👻</h1>
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: row;">
   <a href="https://github.com/firwe">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=firwe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firwe&layout=compact&langs_count=7&theme=dracula"/>
