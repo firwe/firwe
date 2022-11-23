@@ -1,7 +1,5 @@
 <h1 align="center"> blowout soon fellow stalker 👻</h1>
 
-  ##
-  
 <div align="center">
   <a href="https://github.com/firwe">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=firwe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
