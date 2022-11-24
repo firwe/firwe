@@ -1,4 +1,4 @@
-<h1 align="center"> blowout soon 👻</h1>
+<h1 align="center"> blowout soon, fellow stalker 👻</h1>
 
 <div style="display: flex; flex-direction: row;">
   <a href="https://github.com/firwe">
