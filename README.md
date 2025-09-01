@@ -6,8 +6,6 @@
     >java, javascript, css, html, SQL.
   <br>
   <br />
-  <br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firwe&layout=compact&theme=jolly" alt="Top Languages">
-  <br>
   </samp>
 </p></p>
