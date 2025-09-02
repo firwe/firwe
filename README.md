@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/1b3fe76a-d4fe-4aff-ac67-b02fdbf854b3" width=400 align=left>
 <p float="left">
     <samp>
-  <h2>Languages and Tools:</h2>
+  Languages and Tools:
   <br> <br>
       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="45" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="45" height="40"/>&nbsp;
