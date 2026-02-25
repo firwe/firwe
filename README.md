@@ -12,7 +12,6 @@
       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" title="MySQL"  alt="MySQL" width="45" height="45"/>&nbsp;
       <hr>
   </samp>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firwe&layout=compact&theme=jolly" alt="Top Languages">
 </p> </p>
 <br> <br> <br> <br>
 <div> 
